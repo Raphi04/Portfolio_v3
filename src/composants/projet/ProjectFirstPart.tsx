@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
-import { useLocation, useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
 import projetInfo from "../../json/projetsInfos.json";
-import "./projectFirstPart.scss";
 import ModelViewer from "../ModelViewer";
+
+import "./projectFirstPart.scss";
 
 interface Project {
   projectUrl: string;
