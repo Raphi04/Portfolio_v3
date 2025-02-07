@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "competence": "HTML5",
+    "fontAwesome": "faHtml5"
+  },
+  {
+    "id": 2,
+    "competence": "CSS3",
+    "fontAwesome": "faCss3Alt"
+  },
+  {
+    "id": 9,
+    "competence": "Sass(SCSS)",
+    "fontAwesome": "faSass"
+  },
+  {
+    "id": 3,
+    "competence": "JavaScript",
+    "fontAwesome": "faJs"
+  },
+  {
+    "id": 4,
+    "competence": "ReactJS",
+    "fontAwesome": "faReact"
+  },
+  {
+    "id": 5,
+    "competence": "VueJS",
+    "fontAwesome": "faVuejs"
+  },
+  {
+    "id": 6,
+    "competence": "PHP",
+    "fontAwesome": "faPhp"
+  },
+
+  {
+    "id": 12,
+    "competence": "Symfony",
+    "fontAwesome": "faSymfony"
+  },
+
+  {
+    "id": 7,
+    "competence": "MySQL",
+    "fontAwesome": "faDatabase"
+  },
+  {
+    "id": 11,
+    "competence": "Blender",
+    "fontAwesome": "faCube"
+  },
+  {
+    "id": 8,
+    "competence": "GitHub",
+    "fontAwesome": "faGithub"
+  },
+  {
+    "id": 10,
+    "competence": "Atlassian",
+    "fontAwesome": "faAtlassian"
+  }
+]

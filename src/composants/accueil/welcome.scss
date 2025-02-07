@@ -1,0 +1,111 @@
+section#accueil {
+  width: 100%;
+  /*https://www.decorilla.com/online-decorating/home-office-background-ideas/*/
+  background-image: url(../../assets/background.jpeg);
+  background-size: cover;
+  background-position: center center;
+  scroll-margin: 55px;
+  height: calc(80vh - 55px);
+
+  @media (min-width: 1024px) {
+    height: calc(100vh - 55px);
+  }
+
+  .opacity {
+    height: 100%;
+    width: 100%;
+    padding: 55px 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: white;
+    background-color: $backgroundOpacity;
+
+    @media (min-width: 768px) {
+      padding: 100px 25px;
+    }
+
+    p,
+    h1 {
+      text-align: center;
+    }
+
+    .presentation {
+      font-size: 1rem;
+
+      @media (min-width: 768px) {
+        font-size: 1.5rem;
+      }
+
+      @media (min-width: 1024px) {
+        font-size: 2rem;
+      }
+    }
+
+    .title {
+      font-size: 1.5rem;
+
+      @media (min-width: 768px) {
+        font-size: 2.5rem;
+      }
+
+      @media (min-width: 1024px) {
+        font-size: 4rem;
+      }
+    }
+
+    hr {
+      width: 55%;
+      border: 2px solid $red;
+
+      @media (min-width: 1024px) {
+        border: 3px solid $red;
+      }
+    }
+
+    .subTitle {
+      font-size: 0.8rem;
+
+      @media (min-width: 768px) {
+        font-size: 1.1rem;
+      }
+
+      @media (min-width: 768px) {
+        font-size: 1.5rem;
+      }
+    }
+
+    .discover {
+      margin-top: 15px;
+      padding: 5px 25px;
+      border-radius: 30px;
+      font-size: 1rem;
+      font-weight: 600;
+      color: white;
+      background-color: $red;
+      box-shadow: $boxShadow;
+      transition:
+        background-color 0.3s ease-out,
+        scale 0.2s ease-out;
+
+      &:hover,
+      &:active {
+        background-color: $redHover;
+      }
+
+      &:active {
+        scale: 0.95;
+      }
+
+      @media (min-width: 768px) {
+        font-size: 1.2rem;
+      }
+      @media (min-width: 768px) {
+        font-size: 1.4rem;
+        padding: 7px 45px;
+      }
+    }
+  }
+}

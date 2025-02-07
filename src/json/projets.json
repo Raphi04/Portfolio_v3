@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "linkComplement": "avenged-sevenfold-cd",
+    "category": "graphisme",
+    "imgLink": "/projects/avengedSevenFold/avengedSevenFold.png",
+    "imgAlt": "Avenged SevenFold - Création boite CD",
+    "titre": "Avenged Sevenfold",
+    "sousTitre": "Création d'une boite CD",
+    "backgroundColor": "black"
+  },
+
+  {
+    "id": 2,
+    "linkComplement": "sushiko",
+    "category": "developpement",
+    "imgLink": "/projects/avengedSevenFold/avengedSevenFold.png",
+    "imgAlt": "Sushiko - Réservation de boîtes de sushi",
+    "titre": "Sushiko",
+    "sousTitre": "Réservation de boîtes de sushi",
+    "backgroundColor": "green"
+  },
+
+  {
+    "id": 3,
+    "linkComplement": "acf2l",
+    "category": "developpement",
+    "imgLink": "/projects/ACF2L.png",
+    "imgAlt": "ACF2L - Refonte d'un site web",
+    "titre": "ACF2L",
+    "sousTitre": "Refonte d'un site web",
+    "backgroundColor": "blue"
+  },
+
+  {
+    "id": 10,
+    "linkComplement": "mjollnir",
+    "category": "3D",
+    "imgLink": "/projects/mjollnir/Mjollnir.jpg",
+    "imgAlt": "Mjöllnir - Création d'objet 3D",
+    "titre": "Mjöllnir",
+    "sousTitre": "Création d'objet 3D",
+    "backgroundColor": "brown"
+  },
+
+  {
+    "id": 4,
+    "linkComplement": "xspace",
+    "category": "developpement",
+    "imgLink": "/projects/XSpace.jpg",
+    "imgAlt": "XSpace - Création d'un site web",
+    "titre": "XSpace",
+    "sousTitre": "Création d'un site vitrine",
+    "backgroundColor": "black"
+  },
+
+  {
+    "id": 5,
+    "linkComplement": "vivy",
+    "category": "redaction",
+    "imgLink": "/projects/vivy/vivy.jpg",
+    "imgAlt": "Vivy - Rédaction d'article",
+    "titre": "Vivy",
+    "sousTitre": "Rédaction d'article",
+    "backgroundColor": "blueAlt"
+  },
+
+  {
+    "id": 6,
+    "linkComplement": "calcul-salaire",
+    "category": "developpement",
+    "imgLink": "/projects/calculSalaire.jpg",
+    "imgAlt": "Calcul Salaire - Exercice JavaScript",
+    "titre": "Calcul Salaire",
+    "sousTitre": "Exercice JavaScript",
+    "backgroundColor": "orange"
+  },
+
+  {
+    "id": 7,
+    "linkComplement": "magazine",
+    "category": "graphisme",
+    "imgLink": "/projects/magazine/magazine.jpg",
+    "imgAlt": "Magazine - Création d'un magazine",
+    "titre": "Magazine",
+    "sousTitre": "Création d'un magazine",
+    "backgroundColor": "red"
+  },
+
+  {
+    "id": 8,
+    "linkComplement": "razer",
+    "category": "redaction",
+    "imgLink": "/projects/razer/razer.jpg",
+    "imgAlt": "Razer - Rédaction d'article anglais",
+    "titre": "Razer",
+    "sousTitre": "Rédaction d'article anglais",
+    "backgroundColor": "greenAlt"
+  },
+
+  {
+    "id": 9,
+    "linkComplement": "aim-trainer",
+    "category": "developpement",
+    "imgLink": "/projects/aimTrainer.jpg",
+    "imgAlt": "AimTrainer - Exercice JavaScript",
+    "titre": "AimTrainer",
+    "sousTitre": "Exercice JavaScript",
+    "backgroundColor": "redAlt"
+  }
+]

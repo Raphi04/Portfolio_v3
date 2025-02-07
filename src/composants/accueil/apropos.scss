@@ -1,0 +1,56 @@
+section#apropos {
+  width: 100%;
+  padding: 35px 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: white;
+  background-color: $blue;
+  scroll-margin: 55px;
+  box-shadow: $boxShadow;
+
+  @media (min-width: 768px) {
+    padding: 50px 40px 70px 40px;
+    gap: 2rem;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 50px 60px 70px 60px;
+  }
+
+  @media (min-width: 1440px) {
+    padding: 75px 60px 70px 85px;
+  }
+
+  p,
+  h2 {
+    text-align: center;
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+
+    @media (min-width: 768px) {
+      font-size: 2.5rem;
+      margin-bottom: calc(50px - 2rem);
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 3rem;
+    }
+  }
+
+  p {
+    @media (min-width: 768px) {
+      font-size: 1.1rem;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 1.4rem;
+      margin-bottom: calc(50px - 2rem);
+    }
+  }
+}

@@ -1,0 +1,13 @@
+footer {
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $red;
+  box-shadow: $boxShadow;
+
+  p {
+    font-weight: 600;
+    color: white;
+  }
+}

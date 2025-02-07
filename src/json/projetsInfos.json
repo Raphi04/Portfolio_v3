@@ -1,0 +1,69 @@
+[
+  {
+    "projectUrl": "avenged-sevenfold-cd",
+    "projectName": "Avenged SevenFold CD",
+    "projectCategory": "Création d'une boîte CD",
+    "projectDescription": "Lors de ce petit projet graphique, nous devions choisir une musique que nous aimions afin d'imaginer et de <strong>réaliser</strong> sur InDesign <strong>sa boîte CD</strong>. J'ai choisi <strong>\"Hail to the King\"</strong> du groupe <strong>Avenged SevenFold</strong> et je me suis inspiré de leur identité graphique.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["InDesign", "Photoshop", "Illustrator"],
+    "pdfLink": "/projects/avengedSevenFold/avengedSevenFold_Project.pdf",
+    "imgSrc": "/projects/avengedSevenFold/avengedSevenFold_Project.jpg"
+  },
+
+  {
+    "projectUrl": "mjollnir",
+    "projectName": "Mjöllnir",
+    "projectCategory": "Création d'objet 3D",
+    "projectDescription": "Par groupe de deux personnes, nous devions réaliser des <strong>recherches sur</strong> un des aspects les plus intéressants d'<strong>une culture étrangères</strong> de n'importe qu'elle époque. Mon groupe a donc choisi de travailler sur <strong>la place de la femme chez les Vikings</strong>. En plus de ses recherches, nous devions réaliser un site web ainsi qu'un objet 3D d'un objet appartenant au peuple étudié. <strong>J'étais en charge de cette réalisation 3D</strong> et j'ai modélisé ce amulette représentant <strong>le Mjöllnir, le marteau de Thor</strong>.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Blender", "<model-viewer>"],
+    "ModelLink": "/projects/mjollnir/SAE.glb"
+  },
+
+  {
+    "projectUrl": "vivy",
+    "projectName": "Vivy: Fluorite Eye's Song",
+    "projectCategory": "Rédaction d'article",
+    "projectDescription": "Par groupe de deux personnes, nous devions <strong>écrire un article de recommendantion</strong> d'une fiction qui nous invite à réfléchir aux enjeux du numérique. Nous avons choisi de porter notre attention sur l'anime <strong>Vivy: Fluorite Eye's Song</strong> ayant pour personnage principale une intelligence artificielle chargée d'apporter le bonheur au monde par le chant.<br><br><i>Réaliser en première année.</i>",
+    "competences": ["Écriture journalistique", "Canva"],
+    "pdfLink": "/projects/vivy/vivy.pdf",
+    "imgSrc": "/projects/vivy/vivy_Project.jpg"
+  },
+
+  {
+    "projectUrl": "razer",
+    "projectName": "Razer Kraken Pro V2",
+    "projectCategory": "Rédaction d'article en anglais",
+    "projectDescription": "Pour ce projet, nous devions <strong>écrire un article de recommendation en anglais</strong> d'un produit qui a un rapport avec le monde du numérique. J'ai alors choisi de faire un article sur mon casque audio : le <strong>Razer Kraken Pro V2</strong>.<br><br><i>Réaliser en première année.</i>",
+    "competences": ["Écriture journalistique", "Canva"],
+    "pdfLink": "/projects/razer/razer.pdf",
+    "imgSrc": "/projects/razer/razer_Project.jpg"
+  },
+
+  {
+    "projectUrl": "magazine",
+    "projectName": "Magazine de mode",
+    "projectCategory": "Réalisation d'un magazine",
+    "projectDescription": "Pour ce projet, nous devions réaliser les premières pages d'un magazine de mode sur le pays, la culture ou bien l'époque que l'on voulait. J'ai alors choisi le Japon pays que j'apprécie particulièrement.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["InDesign", "Photoshop", "Illustrator"],
+    "pdfLink": "/projects/magazine/magazine.pdf",
+    "imgSrc": "/projects/magazine/magazine_Project.jpg",
+    "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "aim-trainer",
+    "projectName": "Aim-Trainer",
+    "projectCategory": "Exercice de Javascript",
+    "projectDescription": "J'ai réaliser ce petit projet de mon côté pour m'entrainer à utiliser JavaScript. Ce projet reprend le concept d'aim-trainer, des logiciels entrainant la visée des joueurs afin qu'il s'améliore dans les jeux de tir multijoueur.<br><br><i>Réaliser en première année.</i>",
+    "competences": ["Javascript", "HTML", "CSS"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "calcul-salaire",
+    "projectName": "Calcul Salaire",
+    "projectCategory": "Exercice de Javascript",
+    "projectDescription": "L'objectif de cette exercice était d'étudier différents évenements Javascript que l'on peut associer à un input, pour plus tard les utiliser correctement dans de plus gros projets.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Javascript", "HTML", "CSS"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
+  }
+]
