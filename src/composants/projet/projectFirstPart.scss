@@ -96,10 +96,10 @@ section.projectContainer {
   }
 
   .competencesGrid {
-    width: calc(100% + 50px);
-    padding: 20px 25px;
+    width: 100%;
+    padding: 20px 0;
     display: flex;
-    overflow-x: auto;
+    flex-wrap: wrap;
     gap: 1rem;
     scrollbar-color: $blue transparent;
 
@@ -136,7 +136,11 @@ section.projectContainer {
       border-radius: 30px;
       color: $red;
       font-weight: 600;
-      box-shadow: $boxShadow;
+      text-wrap: nowrap;
+
+      .competencesGrid.mobile & {
+        box-shadow: $boxShadow;
+      }
 
       @media (min-width: 1024px) {
         &:hover {

@@ -41,12 +41,11 @@
   {
     "projectUrl": "magazine",
     "projectName": "Magazine de mode",
-    "projectCategory": "Réalisation d'un magazine",
+    "projectCategory": "Création d'un magazine",
     "projectDescription": "Pour ce projet, nous devions réaliser les premières pages d'un magazine de mode sur le pays, la culture ou bien l'époque que l'on voulait. J'ai alors choisi le Japon pays que j'apprécie particulièrement.<br><br><i>Réaliser en deuxième année.</i>",
     "competences": ["InDesign", "Photoshop", "Illustrator"],
     "pdfLink": "/projects/magazine/magazine.pdf",
-    "imgSrc": "/projects/magazine/magazine_Project.jpg",
-    "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
+    "imgSrc": "/projects/magazine/magazine_Project.jpg"
   },
 
   {
@@ -64,6 +63,33 @@
     "projectCategory": "Exercice de Javascript",
     "projectDescription": "L'objectif de cette exercice était d'étudier différents évenements Javascript que l'on peut associer à un input, pour plus tard les utiliser correctement dans de plus gros projets.<br><br><i>Réaliser en deuxième année.</i>",
     "competences": ["Javascript", "HTML", "CSS"],
-    "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
+    "urlLink": "https://www.youtube-nocookie.com/embed/zwmxhM4KqoM?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "acf2l",
+    "projectName": "ACF2L",
+    "projectCategory": "Refonte d'un site web",
+    "projectDescription": "Par groupe de trois personnes, nous devions réaliser la refonte du site web d'un club d'aéronautique. Nous avions pour consigne de devoir utiliser Bootstrap et d'inclure un dispositif intéractif sur notre page.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Bootstrap", "Javascript", "HTML", "PHP", "MySql"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/xbQ7JNhdCDQ?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "xspace",
+    "projectName": "XSpace",
+    "projectCategory": "Création d'un site vitrine",
+    "projectDescription": "Par groupe de quatre personnes, nous devions inventé notre propre marque&nbsp;: du logo, aux vidéos promotionelles jusqu'au site web. J'étais en charge de la réalisation de notre site vitrine.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Javascript", "HTML", "CSS", "PHP"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/lWPIgHms8vo?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "sushiko",
+    "projectName": "Sushiko",
+    "projectCategory": "Réservation de boîtes de sushi",
+    "projectDescription": "Par groupe de quatre personnes, nous devions réaliser une application web de réservation de sushi. Nous avions pour consigne de devoir utilisé Angular.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Angular", "TypeScript", "HTML", "CSS"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/wnEU9dkU8pk?si=eygn0fbYtbL5Jtp6"
   }
 ]
