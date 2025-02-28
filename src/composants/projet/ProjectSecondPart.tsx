@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import projectData from "../../json/projets.json";
 
 import "./projectSecondPart.scss";
+
 import { Link, useLocation, useParams } from "react-router-dom";
 
 interface Project {

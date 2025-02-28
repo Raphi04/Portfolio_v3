@@ -40,7 +40,7 @@ export default function Competence() {
         <h2>COMPÉTENCES</h2>
         <div className="competenceGrid">
           {competences.map((competence) => (
-            <div className="competenceContainer">
+            <div key={competence.id} className="competenceContainer">
               <div>
                 <FontAwesomeIcon icon={iconMap[competence.fontAwesome]} />
                 <p>{competence.competence}</p>

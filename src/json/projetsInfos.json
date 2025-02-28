@@ -91,5 +91,14 @@
     "projectDescription": "Par groupe de quatre personnes, nous devions réaliser une application web de réservation de sushi. Nous avions pour consigne de devoir utilisé Angular.<br><br><i>Réaliser en deuxième année.</i>",
     "competences": ["Angular", "TypeScript", "HTML", "CSS"],
     "urlLink": "https://www.youtube-nocookie.com/embed/wnEU9dkU8pk?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
+    "projectUrl": "tonometre",
+    "projectName": "Mjöllnir",
+    "projectCategory": "Création d'objet 3D",
+    "projectDescription": "Par groupe de deux personnes, nous devions réaliser des <strong>recherches sur</strong> un des aspects les plus intéressants d'<strong>une culture étrangères</strong> de n'importe qu'elle époque. Mon groupe a donc choisi de travailler sur <strong>la place de la femme chez les Vikings</strong>. En plus de ses recherches, nous devions réaliser un site web ainsi qu'un objet 3D d'un objet appartenant au peuple étudié. <strong>J'étais en charge de cette réalisation 3D</strong> et j'ai modélisé ce amulette représentant <strong>le Mjöllnir, le marteau de Thor</strong>.<br><br><i>Réaliser en deuxième année.</i>",
+    "competences": ["Blender", "<model-viewer>"],
+    "ModelLink": "/projects/mjollnir/SAE.glb"
   }
 ]
