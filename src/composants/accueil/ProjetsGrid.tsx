@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import projectData from "../../json/projets.json";
 
 import "./projetsGrid.scss";
+
 import { Link } from "react-router-dom";
 
 interface Project {

@@ -16,6 +16,7 @@ interface modelViewerProps {
   environmentImage?: string;
   shadowIntensity?: number;
   ar?: boolean;
+  maxCameraOrbit?: string;
 }
 
 export default function ModelViewer({
@@ -33,6 +34,7 @@ export default function ModelViewer({
   environmentImage,
   shadowIntensity,
   ar,
+  maxCameraOrbit,
 }: modelViewerProps) {
   const modelRef = useRef<any>(null);
 
@@ -63,10 +65,11 @@ export default function ModelViewer({
       skybox-image={skyboxImage}
       environment-image={environmentImage}
       shadow-intensity={shadowIntensity}
-      min-camera-orbit=""
-      max-camera-orbit=""
+      min-camera-orbit="auto auto auto"
+      max-camera-orbit={maxCameraOrbit}
       ar={ar ? "true" : undefined}
       interaction-prompt="none"
+      touch-pan="none"
     />
   );
 }

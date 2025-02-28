@@ -14,6 +14,9 @@ interface Project {
   competences: string[];
   pdfLink?: string;
   ModelLink?: string;
+  scale?: string;
+  orbit?: string;
+  maxCameraOrbit?: string;
   imgSrc?: string;
   urlLink?: string;
 }
@@ -72,12 +75,13 @@ export default function ProjectFirstPart() {
           {currentProject.ModelLink && (
             <div className="projectView">
               <ModelViewer
-                src="/projects/mjollnir/SAE.glb"
+                src={currentProject.ModelLink}
                 alt="OIIA"
                 loading="eager"
-                scale="5 5 5"
-                cameraOrbit="20deg 85deg 25m"
+                scale={currentProject.scale}
+                cameraOrbit={currentProject.orbit}
                 cameraControls
+                maxCameraOrbit={currentProject.maxCameraOrbit}
               />
             </div>
           )}

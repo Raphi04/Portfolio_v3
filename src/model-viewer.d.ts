@@ -18,6 +18,7 @@ namespace JSX {
       "environment-image"?: string;
       "shadow-intensity"?: string | number;
       ar?: boolean | string;
+      "max-camera-orbit"?: string;
     };
   }
 }
