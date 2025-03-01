@@ -100,7 +100,7 @@
     "projectUrl": "eye-care",
     "projectName": "Eye-Care",
     "projectCategory": "Site d'informations et de sensibilisation",
-    "projectDescription": "Pour ce projet, nous étions un groupe de cinq chargé de <strong>réaliser un site web sur le thème de la santé</strong>. Nous avons donc choisi de réaliser un site d'informations qui a pour but de sensibiliser nos visiteurs sur la santé de leurs yeux. J'étais le développeur front principal pour ce projet, j'ai donc réalisé la plupart des pages, comme par exemple l'accueil, les tests, les articles ou bien la partie commentaire.<br><br><i>Réaliser en troisième année.</i>",
+    "projectDescription": "Pour ce projet, nous étions un groupe de cinq chargé de <strong>réaliser un site web sur le thème de la santé</strong>. Nous avons donc choisi de réaliser un site d'informations qui a pour but de <strong>sensibiliser nos visiteurs sur la santé de leurs yeux</strong>. J'étais le développeur front principal pour ce projet, <strong>j'ai donc réalisé la plupart des pages, comme par exemple l'accueil, les tests, les articles ou bien la partie commentaire</strong>.<br><br><i>Réaliser en troisième année.</i>",
     "competences": [
       "React.js",
       "TypeScript",
