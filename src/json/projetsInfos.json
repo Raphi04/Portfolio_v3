@@ -97,6 +97,23 @@
   },
 
   {
+    "projectUrl": "eye-care",
+    "projectName": "Eye-Care",
+    "projectCategory": "Site d'informations et de sensibilisation",
+    "projectDescription": "Pour ce projet, nous étions un groupe de cinq chargé de <strong>réaliser un site web sur le thème de la santé</strong>. Nous avons donc choisi de réaliser un site d'informations qui a pour but de sensibiliser nos visiteurs sur la santé de leurs yeux. J'étais le développeur front principal pour ce projet, j'ai donc réalisé la plupart des pages, comme par exemple l'accueil, les tests, les articles ou bien la partie commentaire.<br><br><i>Réaliser en troisième année.</i>",
+    "competences": [
+      "React.js",
+      "TypeScript",
+      "JSX",
+      "SCSS",
+      "DataTables",
+      "<model-viewer>",
+      "Symfony"
+    ],
+    "urlLink": "https://www.youtube-nocookie.com/embed/L61CW5-LoKQ?si=eygn0fbYtbL5Jtp6"
+  },
+
+  {
     "projectUrl": "tonometre",
     "projectName": "Tonomètre",
     "projectCategory": "Création d'objet 3D",
