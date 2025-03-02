@@ -129,5 +129,16 @@
     "titre": "Tonomètre",
     "sousTitre": "Création d'objet 3D",
     "backgroundColor": "blueLight"
+  },
+
+  {
+    "id": 13,
+    "linkComplement": "qrattend",
+    "category": "developpement",
+    "imgLink": "/projects/qrattend.jpg",
+    "imgAlt": "QRAttend - Refonte d'un site web",
+    "titre": "QRAttend",
+    "sousTitre": "Refonte d'un site web",
+    "backgroundColor": "blueBright"
   }
 ]

@@ -3,7 +3,7 @@
     "projectUrl": "avenged-sevenfold-cd",
     "projectName": "Avenged SevenFold CD",
     "projectCategory": "Création d'une boîte CD",
-    "projectDescription": "Lors de ce petit projet graphique, nous devions choisir une musique que nous aimions afin d'imaginer et de <strong>réaliser</strong> sur InDesign <strong>sa boîte CD</strong>. J'ai choisi <strong>\"Hail to the King\"</strong> du groupe <strong>Avenged SevenFold</strong> et je me suis inspiré de leur identité graphique.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Lors de ce petit projet graphique, nous devions choisir une musique que nous aimions afin d'imaginer et de <strong>réaliser</strong> sur InDesign <strong>sa boîte CD</strong>. J'ai choisi <strong>\"Hail to the King\"</strong> du groupe <strong>Avenged SevenFold</strong> et je me suis inspiré de leur identité graphique.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["InDesign", "Photoshop", "Illustrator"],
     "pdfLink": "/projects/avengedSevenFold/avengedSevenFold_Project.pdf",
     "imgSrc": "/projects/avengedSevenFold/avengedSevenFold_Project.jpg"
@@ -13,7 +13,7 @@
     "projectUrl": "mjollnir",
     "projectName": "Mjöllnir",
     "projectCategory": "Création d'objet 3D",
-    "projectDescription": "Par groupe de deux personnes, nous devions réaliser des <strong>recherches sur</strong> un des aspects les plus intéressants d'<strong>une culture étrangères</strong> de n'importe qu'elle époque. Mon groupe a donc choisi de travailler sur <strong>la place de la femme chez les Vikings</strong>. En plus de ses recherches, nous devions réaliser un site web ainsi qu'un objet 3D d'un objet appartenant au peuple étudié. <strong>J'étais en charge de cette réalisation 3D</strong> et j'ai modélisé cette amulette représentant <strong>le Mjöllnir, le marteau de Thor</strong>.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Par groupe de deux personnes, nous devions réaliser des <strong>recherches sur</strong> un des aspects les plus intéressants d'<strong>une culture étrangères</strong> de n'importe qu'elle époque. Mon groupe a donc choisi de travailler sur <strong>la place de la femme chez les Vikings</strong>. En plus de ses recherches, nous devions réaliser un site web ainsi qu'un objet 3D d'un objet appartenant au peuple étudié. <strong>J'étais en charge de cette réalisation 3D</strong> et j'ai modélisé cette amulette représentant <strong>le Mjöllnir, le marteau de Thor</strong>.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["Blender", "<model-viewer>"],
     "ModelLink": "/projects/mjollnir/SAE.glb",
     "scale": "5 5 5",
@@ -25,7 +25,7 @@
     "projectUrl": "vivy",
     "projectName": "Vivy: Fluorite Eye's Song",
     "projectCategory": "Rédaction d'article",
-    "projectDescription": "Par groupe de deux personnes, nous devions <strong>écrire un article de recommendantion</strong> d'une fiction qui nous invite à réfléchir aux enjeux du numérique. Nous avons choisi de porter notre attention sur l'anime <strong>Vivy: Fluorite Eye's Song</strong> ayant pour personnage principale une intelligence artificielle chargée d'apporter le bonheur au monde par le chant.<br><br><i>Réaliser en première année.</i>",
+    "projectDescription": "Par groupe de deux personnes, nous devions <strong>écrire un article de recommendantion</strong> d'une fiction qui nous invite à réfléchir aux enjeux du numérique. Nous avons choisi de porter notre attention sur l'anime <strong>Vivy: Fluorite Eye's Song</strong> ayant pour personnage principale une intelligence artificielle chargée d'apporter le bonheur au monde par le chant.<br><br><i>Réalisé en première année.</i>",
     "competences": ["Écriture journalistique", "Canva"],
     "pdfLink": "/projects/vivy/vivy.pdf",
     "imgSrc": "/projects/vivy/vivy_Project.jpg"
@@ -35,7 +35,7 @@
     "projectUrl": "razer",
     "projectName": "Razer Kraken Pro V2",
     "projectCategory": "Rédaction d'article en anglais",
-    "projectDescription": "Pour ce projet, nous devions <strong>écrire un article de recommendation en anglais</strong> d'un produit qui a un rapport avec le monde du numérique. J'ai alors choisi de faire un article sur mon casque audio : le <strong>Razer Kraken Pro V2</strong>.<br><br><i>Réaliser en première année.</i>",
+    "projectDescription": "Pour ce projet, nous devions <strong>écrire un article de recommendation en anglais</strong> d'un produit qui a un rapport avec le monde du numérique. J'ai alors choisi de faire un article sur mon casque audio : le <strong>Razer Kraken Pro V2</strong>.<br><br><i>Réalisé en première année.</i>",
     "competences": ["Écriture journalistique", "Canva"],
     "pdfLink": "/projects/razer/razer.pdf",
     "imgSrc": "/projects/razer/razer_Project.jpg"
@@ -45,7 +45,7 @@
     "projectUrl": "magazine",
     "projectName": "Magazine de mode",
     "projectCategory": "Création d'un magazine",
-    "projectDescription": "Pour ce projet, nous devions réaliser les premières pages d'un magazine de mode sur le pays, la culture ou bien l'époque que l'on voulait. J'ai alors choisi le Japon pays que j'apprécie particulièrement.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Pour ce projet, nous devions réaliser les premières pages d'un magazine de mode sur le pays, la culture ou bien l'époque que l'on voulait. J'ai alors choisi le Japon pays que j'apprécie particulièrement.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["InDesign", "Photoshop", "Illustrator"],
     "pdfLink": "/projects/magazine/magazine.pdf",
     "imgSrc": "/projects/magazine/magazine_Project.jpg"
@@ -55,7 +55,7 @@
     "projectUrl": "aim-trainer",
     "projectName": "Aim-Trainer",
     "projectCategory": "Exercice de Javascript",
-    "projectDescription": "J'ai réaliser ce petit projet de mon côté pour m'entrainer à utiliser JavaScript. Ce projet reprend le concept d'aim-trainer, des logiciels entrainant la visée des joueurs afin qu'il s'améliore dans les jeux de tir multijoueur.<br><br><i>Réaliser en première année.</i>",
+    "projectDescription": "J'ai réaliser ce petit projet de mon côté pour m'entrainer à utiliser JavaScript. Ce projet reprend le concept d'aim-trainer, des logiciels entrainant la visée des joueurs afin qu'il s'améliore dans les jeux de tir multijoueur.<br><br><i>Réalisé en première année.</i>",
     "competences": ["Javascript", "HTML", "CSS"],
     "urlLink": "https://www.youtube-nocookie.com/embed/BTLYjhtpbmU?si=eygn0fbYtbL5Jtp6"
   },
@@ -64,7 +64,7 @@
     "projectUrl": "calcul-salaire",
     "projectName": "Calcul Salaire",
     "projectCategory": "Exercice de Javascript",
-    "projectDescription": "L'objectif de cette exercice était d'étudier différents évenements Javascript que l'on peut associer à un input, pour plus tard les utiliser correctement dans de plus gros projets.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "L'objectif de cette exercice était d'étudier différents évenements Javascript que l'on peut associer à un input, pour plus tard les utiliser correctement dans de plus gros projets.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["Javascript", "HTML", "CSS"],
     "urlLink": "https://www.youtube-nocookie.com/embed/zwmxhM4KqoM?si=eygn0fbYtbL5Jtp6"
   },
@@ -73,7 +73,7 @@
     "projectUrl": "acf2l",
     "projectName": "ACF2L",
     "projectCategory": "Refonte d'un site web",
-    "projectDescription": "Par groupe de trois personnes, nous devions réaliser la refonte du site web d'un club d'aéronautique. Nous avions pour consigne de devoir utiliser Bootstrap et d'inclure un dispositif intéractif sur notre page.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Par groupe de trois personnes, nous devions réaliser la refonte du site web d'un club d'aéronautique. Nous avions pour consigne de devoir utiliser Bootstrap et d'inclure un dispositif intéractif sur notre page.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["Bootstrap", "Javascript", "HTML", "PHP", "MySql"],
     "urlLink": "https://www.youtube-nocookie.com/embed/xbQ7JNhdCDQ?si=eygn0fbYtbL5Jtp6"
   },
@@ -82,7 +82,7 @@
     "projectUrl": "xspace",
     "projectName": "XSpace",
     "projectCategory": "Création d'un site vitrine",
-    "projectDescription": "Par groupe de quatre personnes, nous devions inventé notre propre marque&nbsp;: du logo, aux vidéos promotionelles jusqu'au site web. J'étais en charge de la réalisation de notre site vitrine.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Par groupe de quatre personnes, nous devions inventé notre propre marque&nbsp;: du logo, aux vidéos promotionelles jusqu'au site web. J'étais en charge de la réalisation de notre site vitrine.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["Javascript", "HTML", "CSS", "PHP"],
     "urlLink": "https://www.youtube-nocookie.com/embed/lWPIgHms8vo?si=eygn0fbYtbL5Jtp6"
   },
@@ -91,7 +91,7 @@
     "projectUrl": "sushiko",
     "projectName": "Sushiko",
     "projectCategory": "Réservation de boîtes de sushi",
-    "projectDescription": "Par groupe de quatre personnes, nous devions <strong>réaliser une application web de réservation de sushi</strong>. Pour ce projet, <strong>j’étais le développeur principal. J’étais donc en charge du développement de la quasi-totalité des pages, designées par un de mes camarades</strong>.<br><br><i>Réaliser en deuxième année.</i>",
+    "projectDescription": "Par groupe de quatre personnes, nous devions <strong>réaliser une application web de réservation de sushi</strong>. Pour ce projet, <strong>j’étais le développeur principal. J’étais donc en charge du développement de la quasi-totalité des pages, designées par un de mes camarades</strong>.<br><br><i>Réalisé en deuxième année.</i>",
     "competences": ["Angular", "TypeScript", "HTML", "CSS"],
     "urlLink": "https://www.youtube-nocookie.com/embed/wnEU9dkU8pk?si=eygn0fbYtbL5Jtp6"
   },
@@ -100,7 +100,7 @@
     "projectUrl": "eye-care",
     "projectName": "Eye-Care",
     "projectCategory": "Site d'informations et de sensibilisation",
-    "projectDescription": "Pour ce projet, nous étions un groupe de cinq chargé de <strong>réaliser un site web sur le thème de la santé</strong>. Nous avons donc choisi de réaliser un site d'informations qui a pour but de <strong>sensibiliser nos visiteurs sur la santé de leurs yeux</strong>. J'étais le développeur front principal pour ce projet, <strong>j'ai donc réalisé la plupart des pages, comme par exemple l'accueil, les tests, les articles ou bien la partie commentaire</strong>.<br><br><i>Réaliser en troisième année.</i>",
+    "projectDescription": "Pour ce projet, nous étions un groupe de cinq chargé de <strong>réaliser un site web sur le thème de la santé</strong>. Nous avons donc choisi de réaliser un site d'informations qui a pour but de <strong>sensibiliser nos visiteurs sur la santé de leurs yeux</strong>. J'étais le développeur front principal pour ce projet, <strong>j'ai donc réalisé la plupart des pages, comme par exemple l'accueil, les tests, les articles ou bien la partie commentaire</strong>.<br><br><i>Réalisé en troisième année.</i>",
     "competences": [
       "React.js",
       "TypeScript",
@@ -117,10 +117,19 @@
     "projectUrl": "tonometre",
     "projectName": "Tonomètre",
     "projectCategory": "Création d'objet 3D",
-    "projectDescription": "Dans le cadre de notre projet universitaire <strong>EyeCare</strong>, nous devions chacun réaliser un objet 3D en rapport avec le thème de notre site. <strong>J'ai donc réalisé ce tonomètre</strong>, un outil médical permettant de mesurer la pression intra-occulaire. Le modèle physique utilisé pour cette modélisation est un <i>Icare IC100</i>.<br><br><i>Réaliser en troisième année.</i>",
+    "projectDescription": "Dans le cadre de notre projet universitaire <strong>EyeCare</strong>, nous devions chacun réaliser un objet 3D en rapport avec le thème de notre site. <strong>J'ai donc réalisé ce tonomètre</strong>, un outil médical permettant de mesurer la pression intra-occulaire. Le modèle physique utilisé pour cette modélisation est un <i>Icare IC100</i>.<br><br><i>Réalisé en troisième année.</i>",
     "competences": ["Blender", "<model-viewer>"],
     "ModelLink": "/projects/tonometre/tonometre.glb",
     "orbit": "0deg 90deg auto",
     "maxCameraOrbit": "auto auto auto"
+  },
+
+  {
+    "projectUrl": "qrattend",
+    "projectName": "QRAttend",
+    "projectCategory": "Site d'émargement des élèves",
+    "projectDescription": "Ce projet a été réalisé dans le cadre de mon stage de deuxième année pour l'Université Gustave Eiffel. Il consistait à <strong>reprendre le travail d'un groupe de master afin d'en refaire l'interface graphique et d'ajouter une partie étudiante au site</strong>. J'ai alors fait la maquette complète sur Figma avant de recoder le front. Un des points les plus intéressants de ce projet, selon moi, est que <strong>j'ai travaillé avec Vue.js</strong>, un framework front sur lequel je n'avais aucune connaissance. <strong>J'ai donc dû apprendre à l'utiliser tout en le découvrant</strong>. Le projet possédait aussi une partie mobile avec une application codé avec Kotlin.<br><br><i>Réalisé en deuxième année.</i>",
+    "competences": ["Vue.js", "HTML", "SCSS", "DataTables", "Laravel", "Kotlin"],
+    "urlLink": "https://www.youtube-nocookie.com/embed/Jo_em-t_cz0?si=eygn0fbYtbL5Jtp6"
   }
 ]
